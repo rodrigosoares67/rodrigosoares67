@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @rodrigosoares67
+- 👋 Hi, I’m @rodrigosoares67 (Rodrigo de Oliveira Carvalho Soares)
 - 👀 I’m interested in Web/Mobile Development using different technologies
 - 🌱 I’m currently learning React, React Native, Flutter and Laravel
 - 💞️ I’m looking to collaborate with the creation of open source projects and present my porfolio.
