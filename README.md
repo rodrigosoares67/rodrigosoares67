@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, I’m @rodrigosoares67
 - 👀 I’m interested in Web/Mobile Development using different technologies
 - 🌱 I’m currently learning React, React Native, Flutter and Laravel
@@ -6,7 +8,9 @@
   Email: rodrigocarvalhosoares@gmail.com
   Linkedin: https://www.linkedin.com/in/rodrigosoares67/
  
-#Projetos#
+# Projects
+
+- Coming soon...
 
 <!---
 rodrigosoares67/rodrigosoares67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
