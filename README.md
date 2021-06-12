@@ -11,10 +11,5 @@
 # Projects
 
 ### Rastreamento de Encomendas
-- [https://github.com/rodrigosoares67/react-tracking](Frontend - React)
-- [https://github.com/rodrigosoares67/node-tracking](Backend - Node)
-
-<!---
-rodrigosoares67/rodrigosoares67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Frontend - React](https://github.com/rodrigosoares67/react-tracking)
+- [Backend - Node](https://github.com/rodrigosoares67/node-tracking)
