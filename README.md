@@ -10,6 +10,9 @@
  
 # Projects
 
+### Board (Tabuleiro)
+- [Frontend - Next.Js]([https://github.com/rodrigosoares67/react-tracking](https://github.com/rodrigosoares67/tabuleiro-nextjs))
+
 ### Order Tracking (Rastreamento de Encomendas)
 - [Frontend - React](https://github.com/rodrigosoares67/react-tracking)
 - [Backend - Node](https://github.com/rodrigosoares67/node-tracking)
