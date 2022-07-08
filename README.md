@@ -10,6 +10,9 @@
  
 # Projects
 
+### NestJS Users CRUD (Cadastro de Usuários)
+- [Backend - Nest.JS](https://github.com/rodrigosoares67/nestjs-crud)
+
 ### Board (Tabuleiro)
 - [Frontend - Next.Js](https://github.com/rodrigosoares67/tabuleiro-nextjs)
 
