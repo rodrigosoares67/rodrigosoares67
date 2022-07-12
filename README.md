@@ -10,6 +10,9 @@
  
 # Projects
 
+### Admin Template (Painel Administrativo - Modelo base)
+- [Frontend - Next.Js](https://github.com/rodrigosoares67/admin-template)
+
 ### NestJS Users CRUD (Cadastro de Usuários)
 - [Backend - Nest.JS](https://github.com/rodrigosoares67/nestjs-crud)
 
