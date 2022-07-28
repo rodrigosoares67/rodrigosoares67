@@ -10,6 +10,10 @@
  
 # Projects
 
+### Finance Control (Controle Financeiro)
+- [Frontend - Next.Js](https://github.com/rodrigosoares67/finance-control-nextjs)
+- [Backend - Nest.Js](https://github.com/rodrigosoares67/finance-control-nestjs)
+
 ### Admin Template (Painel Administrativo - Modelo base)
 - [Frontend - Next.Js](https://github.com/rodrigosoares67/admin-template)
 
