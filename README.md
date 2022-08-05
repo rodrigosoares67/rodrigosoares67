@@ -11,7 +11,7 @@
 # Projects
 
 ### Job Mail Queue (Envio de E-mail - Job)
-- [Frontend - Nest.Js](https://github.com/rodrigosoares67/jobs-nestjs)
+- [Backend - Nest.Js](https://github.com/rodrigosoares67/jobs-nestjs)
 
 ### Finance Control (Controle Financeiro)
 - [Frontend - Next.Js](https://github.com/rodrigosoares67/finance-control-nextjs)
