@@ -10,6 +10,9 @@
  
 # Projects
 
+### Cars CRUD (Cadastro de Carros)
+- [Backend - Spring Boot](https://github.com/rodrigosoares67/rest-api-crud)
+
 ### Job Mail Queue (Envio de E-mail - Job)
 - [Backend - Nest.Js](https://github.com/rodrigosoares67/jobs-nestjs)
 
