@@ -8,7 +8,10 @@
   Email: rodrigocarvalhosoares@gmail.com
   Linkedin: https://www.linkedin.com/in/rodrigosoares67/
  
-# Projects
+# Projects (Projetos)
+
+### Minesweeper (Campo Minado)
+- [Java](https://github.com/rodrigosoares67/campo-minado-java)
 
 ### Cars CRUD (Cadastro de Carros)
 - [Backend - Spring Boot](https://github.com/rodrigosoares67/rest-api-crud)
