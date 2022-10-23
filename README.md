@@ -5,10 +5,13 @@
 - 📱 I’m currently learning React, NextJs, React Native, NestJS, AdonisJS, Docker and others.
 - 💞️ I’m looking to collaborate with the creation of open source projects and present my porfolio.
 - 📫 How to reach me: send a message to my email or my social networks below.
-  Email: rodrigocarvalhosoares@gmail.com
+  Email: rodrigocarvalhosoares@outlook.com
   Linkedin: https://www.linkedin.com/in/rodrigosoares67/
  
 # Projects (Projetos)
+
+### Food Commerce (Comércio de Alimentos)
+- [Frontend - React](https://github.com/rodrigosoares67/food-commerce)
 
 ### Authentication Flow with Context API (Fluxo de Autenticação com Context API)
 - [Mobile - React Native](https://github.com/rodrigosoares67/authrn)
