@@ -10,6 +10,9 @@
  
 # Projects (Projetos)
 
+### Human Resources System (Sistema de Recursos Humanos)
+- [Backend - Spring Boot | Docker](https://github.com/rodrigosoares67/ms-course)
+
 ### Food Commerce (Comércio de Alimentos)
 - [Frontend - React](https://github.com/rodrigosoares67/food-commerce)
 
