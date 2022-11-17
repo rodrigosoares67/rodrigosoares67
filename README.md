@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @rodrigosoares67 (Rodrigo de Oliveira Carvalho Soares)
 - 💻 I’m interested in Web/Mobile Development using different technologies
-- 📱 I’m currently learning React, NextJs, React Native, NestJS, AdonisJS, Docker and others.
+- 📱 I’m currently learning Java, React, NextJs, React Native, NestJS, AdonisJS, Docker and others.
 - 💞️ I’m looking to collaborate with the creation of open source projects and present my porfolio.
 - 📫 How to reach me: send a message to my email or my social networks below.
   Email: rodrigocarvalhosoares@outlook.com
