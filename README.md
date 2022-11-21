@@ -11,6 +11,7 @@
 # Projects (Projetos)
 
 ### E-mail Marketing (Envio de E-mails)
+- [Frontend - NextJs](https://github.com/rodrigosoares67/email-marketing-frontend)
 - [Backend - NestJs](https://github.com/rodrigosoares67/email-marketing)
 
 ### Waiter APP (Aplicativo para Garçom)
