@@ -40,12 +40,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rodrigocarvalho/rodrigocarvalho/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 # About Me
 
