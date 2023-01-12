@@ -41,7 +41,7 @@
 ###
 
 
-# About Me
+# About Me (Sobre mim)
 
 - 👋 Hi, I’m @rodrigosoares67 (Rodrigo de Oliveira Carvalho Soares)
 - 💻 I’m interested in Web/Mobile Development using different technologies
